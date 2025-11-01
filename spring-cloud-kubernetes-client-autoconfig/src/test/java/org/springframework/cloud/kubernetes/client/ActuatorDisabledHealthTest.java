@@ -26,7 +26,7 @@ import org.springframework.boot.test.web.server.LocalManagementPort;
 import org.springframework.boot.webtestclient.autoconfigure.AutoConfigureWebTestClient;
 import org.springframework.http.MediaType;
 import org.springframework.test.web.reactive.server.WebTestClient;
- 
+
 /**
  * @author wind57
  */
